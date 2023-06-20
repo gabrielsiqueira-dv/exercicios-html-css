@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.numero1{
+    background-color: #F5F5F5;
+  
+}
+.numero2{
+    background-color: #F0CCE2;
+    
+}
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
